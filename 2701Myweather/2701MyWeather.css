@@ -1,0 +1,160 @@
+/* * {
+	outline:1px solid #333333;
+}
+*/
+
+html {
+    height: 100%;
+}
+
+
+
+body {
+    background-color: #3399CC;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    border: 18px solid #2B81AC;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    color: #fff;
+    box-sizing: border-box;
+}
+
+header div {
+    width: 70%;
+    margin: auto;
+    text-align: left;
+}
+
+footer p {
+    width: 70%;
+    margin: auto;
+    text-align: left;
+    font-size: 16px;
+    padding: 10px;
+}
+
+ul {
+    background-color: #fff;
+    width: 69%;
+    margin: 10px auto;
+    padding: 2.5px;
+    list-style: none;
+    font-size: 0;
+    text-align: center;
+    /* -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box; */
+
+}
+
+ul:hover li {
+    opacity: .5;
+}
+
+li {
+    height: 107px;
+    display: inline-block;
+    font-size: 20px;
+    border: 2.5px solid #fff;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+ul li:hover {
+    opacity: 1;
+}
+
+span {
+    display: block;
+    line-height: 36px;
+}
+
+h1 {
+    font-size: 20px;
+    margin: 13px 0 25px 0;
+}
+
+i {
+    font-size: 30px;
+}
+
+.transp {
+    color: rgba(255, 255, 255, 0.4);
+}
+
+.cell {
+    width: 100%;
+    height: 100%;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 12px 0 0 0;
+}
+
+.city1 {
+    width: 50%;
+    background-color: #3399CC;
+}
+
+.city2 {
+    width: 25%;
+    background-color: #33CCCC;
+}
+
+.city3 {
+    width: 25%;
+    background-color: #996699;
+}
+
+.city4 {
+    width: 25%;
+    background-color: #C24747;
+}
+
+.city5 {
+    width: 25%;
+    background-color: #E2674A;
+}
+
+.city6 {
+    width: 25%;
+    background-color: #FFCC66;
+}
+
+.city7 {
+    width: 25%;
+    background-color: #99CC99;
+}
+
+.city8 {
+    width: 25%;
+    background-color: #669999;
+}
+
+.city9 {
+    width: 50%;
+    background-color: #CC6699;
+}
+
+.city10 {
+    width: 25%;
+    background-color: #339966;
+}
+
+.city11 {
+    width: 100%;
+    background-color: #666699;
+}
+
+
+/*ul:hover span.cell  {*/
+/*background-color: rgba(255, 255, 255, 0.4);*/
+/*}*/
+
+li:hover > span.cell {
+    background: none;
+}
+
