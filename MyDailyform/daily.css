@@ -1,0 +1,135 @@
+* {
+    box-sizing: border-box;
+}
+html {
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ff512f+0,ff512f+24,fd4e33+37,f54542+49,ec3857+58 */
+    background: #ff512f; /* Old browsers */
+    background: -moz-linear-gradient(45deg, #ff512f 0%, #ff512f 24%, #fd4e33 37%, #f54542 49%, #ec3857 58%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(45deg, #ff512f 0%, #ff512f 24%, #fd4e33 37%, #f54542 49%, #ec3857 58%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(45deg, #ff512f 0%, #ff512f 24%, #fd4e33 37%, #f54542 49%, #ec3857 58%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff512f', endColorstr='#ec3857', GradientType=1); /* IE6-9 fallback on horizontal gradient */
+    height: 100%;
+    width: 100%px;
+    position: relative;
+}
+h1 {
+    margin: 0;
+}
+p {
+    margin: 0;
+}
+.form {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    margin: auto;
+    background: #ffffff;
+    max-width: 460px;
+    min-width: 220px;
+    border-radius: 3px;
+    height: 471px;
+    padding: 27px 30px;
+}
+.form-create {
+    display: inline-block;
+    font: 700 24px 'Arial';
+    line-height: 20px;
+    vertical-align: middle;
+    margin-left: 3px;
+
+}
+
+.sign-up-icon img {
+    vertical-align: middle;
+
+}
+
+.form-join {
+    font: 400 13px Arial Regular;
+    line-height: 20px;
+    margin: 14px 0 31px 0;
+    letter-spacing: 0.014em;
+    color: #909194;
+}
+input {
+    font: 400 14px Arial Regular;
+    outline: none;
+}
+input::-webkit-input-placeholder       {text-indent: 0;   transition: text-indent 0.7s ease;}
+input::-moz-placeholder                {text-indent: 0;   transition: text-indent 0.7s ease;}
+input:-moz-placeholder                 {text-indent: 0;   transition: text-indent 0.7s ease;}
+input:-ms-input-placeholder            {text-indent: 0;   transition: text-indent 0.7s ease;}
+input:focus::-webkit-input-placeholder {text-indent: 500px; transition: text-indent 0.7s ease;}
+input:focus::-moz-placeholder          {text-indent: 500px; transition: text-indent 0.7s ease;}
+input:focus:-moz-placeholder           {text-indent: 500px; transition: text-indent 0.7s ease;}
+input:focus:-ms-input-placeholder      {text-indent: 500px; transition: text-indent 0.7s ease;}
+
+
+.form-input-first, .form-input-last {
+    font: 400 14px 'Arial';
+    width: 193px;
+    line-height: 20px;
+    background: #f0f0f0;
+    border: none;
+    border-radius: 4px;
+    height: 40px;
+    padding-left: 11px;
+
+}
+.form-input-first {
+    margin-right: 14px;
+}
+.form-input-email, .form-input-password {
+    font: 400 14px 'Arial';
+    line-height: 20px;
+    width: 100%;
+    min-width: 193px;
+    background: #f0f0f0;
+    border: none;
+    border-radius: 4px;
+    height: 40px;
+    padding-left: 11px;
+    margin-top: 14px;
+}
+.form-btn {
+    font: 700 18px  Arial , sans-serif;
+    line-height: 20px;
+    background: #ea365a;
+    border-radius: 4px;
+    width: 100%;
+    border: none;
+    outline: none;
+    margin-top: 17px;
+    padding: 15px;
+    color: white;
+    -webkit-box-shadow: 0 3px 0 0 #bd1962;
+    box-shadow: 0 3px 0 0 #bd1962;
+}
+.form-btn:active {
+    background: #bd1962;
+}
+
+.form-privacy {
+    font: 400 12px 'Arial';
+    margin-top: 25px;
+    color: #909194;
+
+}
+p.form-privacy {
+    line-height: 20px;
+}
+a {
+    font: inherit;
+    color: #dd2476;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
