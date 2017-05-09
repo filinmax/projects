@@ -276,15 +276,23 @@
       <option name="presentableId" value="Default" />
       <updated>1493997284608</updated>
       <workItem from="1493997289467" duration="76757000" />
-      <workItem from="1494362010535" duration="1139000" />
+      <workItem from="1494362010535" duration="1248000" />
     </task>
+    <task id="LOCAL-00001" summary="commit it">
+      <created>1494363413582</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1494363413582</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77896000" />
+    <option name="totallyTimeSpent" value="78005000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="14" y="1" width="1342" height="689" extended-state="0" />
+    <frame x="14" y="1" width="1342" height="689" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.034343433" sideWeight="0.5" order="10" side_tool="false" content_ui="combo" />
@@ -311,6 +319,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit it" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit it" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
