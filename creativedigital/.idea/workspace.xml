@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f44ba74f-a2f9-4705-919b-81bfa241b037" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="f44ba74f-a2f9-4705-919b-81bfa241b037" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -276,7 +274,7 @@
       <option name="presentableId" value="Default" />
       <updated>1493997284608</updated>
       <workItem from="1493997289467" duration="76757000" />
-      <workItem from="1494362010535" duration="1248000" />
+      <workItem from="1494362010535" duration="1535000" />
     </task>
     <task id="LOCAL-00001" summary="commit it">
       <created>1494363413582</created>
@@ -289,11 +287,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78005000" />
+    <option name="totallyTimeSpent" value="78292000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="14" y="1" width="1342" height="689" extended-state="1" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.034343433" sideWeight="0.5" order="10" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
